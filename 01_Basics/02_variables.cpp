@@ -12,6 +12,5 @@ int main(){
     std::cout << y <<'\n';
     std::cout << sum <<'\n';
 
-
     return 0;
 }
