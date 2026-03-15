@@ -5,7 +5,7 @@ int main(){
     // (read-only)
 
     // Example 1
-    const double PI = 3.24259; // makes pi value Constant
+    const double PI = 3.14259; // makes pi value Constant
     double radius = 5;
     double circumference = 2*PI*radius;
 
